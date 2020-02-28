@@ -1,29 +1,8 @@
-# Project Title
+# Todo App
 
 
-## Getting Started
+Super simple todo app using python3. Nice example of pretty nice
+input/output with really simple python code.
 
 
-### Prerequisites
-
-### Installing
-
-
-## Contributing
-
-
-## Versioning
-
-
-## Authors
-
-
-## License
-
-
-## Acknowledgments
-
-* Creators of dependencies
-* Inspiration
-* etc
 
