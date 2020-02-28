@@ -95,3 +95,6 @@ venv.bak/
 
 # Pre Commit
 .pre-commit-config.yaml
+
+# pickle files
+.pkl
